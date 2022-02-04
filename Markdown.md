@@ -1,6 +1,7 @@
 # Markdown
 [README.md](https://github.com/Nymphadorart/exercise-markdown#readme)
 
+
 1. First item
 2. Second item
 3. Third item
@@ -23,4 +24,14 @@
 ## Titre 2
 ### Titre 3
 
+
+
+**Quelques liens**
+
+[Les bases de Git (tuto débutant)](https://youtu.be/gp_k0UVOYMw)
+
+[19 commandes git indispensables pour les développeurs](https://www.commentcoder.com/commandes-git/)
+
+
+![Joke](https://lesjoiesducode.fr/content/042/git_blame_among_us_ljdc.jpg)
 
